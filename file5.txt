@@ -1,0 +1,1 @@
+go run and do not do anything and do this other thing
